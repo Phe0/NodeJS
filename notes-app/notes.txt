@@ -1,0 +1,2 @@
+My name is Pedro
+I appended some text with Node.JS
